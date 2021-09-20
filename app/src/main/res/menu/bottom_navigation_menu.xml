@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/AddEventFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_plus"
+        android:title="@string/menu_item_add_event"/>
+    <item
+        android:id="@+id/HomeFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/menu_item_home"/>
+    <item
+        android:id="@+id/ProfileFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_user"
+        android:title="@string/menu_item_profile"/>
+</menu>

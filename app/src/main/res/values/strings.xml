@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MPiP Project</string>
+
+    <string name="add_event_fragment_label">Add Event Fragment</string>
+    <string name="home_fragment_label">Home Fragment</string>
+    <string name="profile_fragment_label">Profile Fragment</string>
+    <string name="login_fragment_label">Login Fragment</string>
+    <string name="register_fragment_label">Register Fragment</string>
+
+    <string name="menu_item_add_event">Add event</string>
+    <string name="menu_item_home">Home</string>
+    <string name="menu_item_profile">Profile</string>
+
+    <string name="btn_logout_text">Logout</string>
+
+    <string name="facebook_app_id">256149499578968</string>
+    <string name="fb_login_protocol_scheme">fb256149499578968</string>
+</resources>

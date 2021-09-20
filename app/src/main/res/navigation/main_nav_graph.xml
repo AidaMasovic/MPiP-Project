@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/HomeFragment">
+
+    <fragment
+        android:id="@+id/AddEventFragment"
+        android:name="mk.ukim.finki.mpipproject.fragment.AddEventFragment"
+        android:label="@string/add_event_fragment_label"
+        tools:layout="@layout/fragment_add_event">
+    </fragment>
+
+    <fragment
+        android:id="@+id/HomeFragment"
+        android:name="mk.ukim.finki.mpipproject.fragment.HomeFragment"
+        android:label="@string/home_fragment_label"
+        tools:layout="@layout/fragment_home">
+    </fragment>
+
+    <fragment
+        android:id="@+id/ProfileFragment"
+        android:name="mk.ukim.finki.mpipproject.fragment.ProfileFragment"
+        android:label="@string/profile_fragment_label"
+        tools:layout="@layout/fragment_profile">
+    </fragment>
+</navigation>

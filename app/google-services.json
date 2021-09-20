@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "562516893469",
+    "project_id": "mpip-project",
+    "storage_bucket": "mpip-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562516893469:android:b8ace73b8b36c595160bf4",
+        "android_client_info": {
+          "package_name": "mk.ukim.finki.mpipproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562516893469-8om0kpprllcqgv548cms2h69rdcq0ns2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mk.ukim.finki.mpipproject",
+            "certificate_hash": "da64d909fcbc27315c5249dc724b3c1445686938"
+          }
+        },
+        {
+          "client_id": "562516893469-n5lqjpdn7t1tetqevaurgbe1ogatsusk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvKLE7KHIcqAzRPXTRdk_8cYbENzo-0tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562516893469-n5lqjpdn7t1tetqevaurgbe1ogatsusk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
